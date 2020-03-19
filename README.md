@@ -16,4 +16,7 @@
     path \
 &nbsp;&nbsp;&nbsp;|-> filename.jpg \
 &nbsp;&nbsp;&nbsp;...
+- To test without train call train(learn=false) and then call test(path)
+- After running test(path), results will be in result folder in current directory
+
 - Example Usage: https://colab.research.google.com/drive/1yaNxBbf7pU-Q4mzj-VMOixWbvs4kmbkA
